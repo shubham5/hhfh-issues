@@ -10,7 +10,6 @@ You can report any bugs, questions, tasks or ehancement suggestions you have her
 The scripts for the hub are currently not publicly available, though we do provide a [changelog][6] and features on pages hosted by GitHub
 at http://hit-hi-fit-hai.github.io/ptokax-scripts/
 
-
   [1]: http://www.lua.org/versions.html#5.1 "Version 5.1"
   [2]: http://www.lua.org/versions.html#5.2 "Version 5.2"
   [3]: https://github.com/HiT-Hi-FiT-Hai/hhfh-docs "Documentation"
